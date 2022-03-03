@@ -1,0 +1,160 @@
+.profile-image {
+  height: 350px;
+  border-radius: 100%;
+  margin-top: 30px;
+}
+.pro {
+  margin: auto 40px auto 40px;
+}
+body {
+  background-color: #eeeeee;
+  font-weight: bold;
+}
+.star {
+  text-shadow: 2px 2px #da1212;
+}
+h1 {
+  color: #da1212;
+  font-family: "Sacramento", cursive;
+  font-size: 5rem;
+  margin: 10px auto 10px auto;
+  text-shadow: 4px 3px #11468f;
+}
+h2 {
+  font-size: 2.5rem;
+  margin: 10px auto 10px auto;
+}
+mar{
+  color: #eeeeee;
+}
+marquee{
+  background-color: #041562;
+  font-size: 1.4rem;
+  direction:left;
+  height:30px;
+  width:100.5%;
+  color: #eeeeee;
+  font-family: "Handlee", cursive;
+}
+p,
+a {
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+p,
+table {
+  color: #11468f;
+  font-family: "Handlee", cursive;
+}
+h2,
+h3,
+h4,
+h5 {
+  font-family: "Handlee", cursive;
+  color: #041562;
+}
+a {
+  text-decoration: none;
+  color: #da1212;
+}
+hr {
+  width: 55%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  color: #da1212;
+}
+table {
+  text-align: center;
+}
+thead {
+  font-size: 1.4rem;
+  font-weight: bold;
+  color: #da1212;
+}
+.intern1 {
+  float: left;
+  width: 50%;
+}
+.intern2 {
+  float: left;
+  width: 33.33%;
+}
+.imgs {
+  height: 200px;
+  margin: auto 20px auto 20px;
+}
+.about {
+  width: 70%;
+  line-height: 2rem;
+}
+.exp {
+  width: 55%;
+}
+.btn {
+  -webkit-border-radius: 14;
+  -moz-border-radius: 14;
+  border-radius: 14px;
+  font-family: "Handlee", cursive;
+  color: #eeeeee;
+  font-size: 1.3rem;
+  background: #da1212;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin-top: 50px auto 50px auto;
+}
+
+.btn:hover {
+  background: #eeeeee;
+  color: #da1212;
+  text-decoration: none;
+  border-style: solid;
+  border-width: 3px;
+}
+.AboutMe {
+  margin: 5px auto 50px auto;
+}
+.contact {
+  margin: 20px auto 50px auto;
+}
+.touch {
+  padding-bottom: 20px;
+}
+.bottom-container {
+  margin: -8px;
+  background-color: #da1212;
+  text-align: center;
+  text-decoration: none;
+  padding: 20px;
+}
+.footer-link {
+  text-decoration: none;
+  font-family: "Handlee", cursive;
+  font-size: 1.1rem;
+  color: #fffbe9;
+  margin: auto 10px auto 10px;
+}
+.footer-link:hover {
+  color: blue;
+}
+.CopyRight {
+  color: #e3caa5;
+  font-size: 1.1rem;
+}
+.edu {
+  width: 80%;
+}
+.row {
+  width: 80%;
+}
+.spec {
+  color: #e3caa5;
+  text-decoration: none;
+}
+a:hover {
+  color: blue;
+}
+.imgs:hover {
+  box-shadow: 3px 3px 3px 3px #041562;
+  height: 150px;
+}
